@@ -1,5 +1,5 @@
 # FileTransporter
-Moves files from one folder to another in real time.
+Moves files from one folder to another in real time. This script can be used for bulk transfer and is really quick.
 
 ## How To Use 📲:
 You can see it's application by cloning the repository and running it. I have included 4 photos in the original_destination folder and 1 photo in the final_destination folder. After the program runs the 4 photos from the original_destination folder will get transfered to the final_destination folder making a total of 5 photos in it.
